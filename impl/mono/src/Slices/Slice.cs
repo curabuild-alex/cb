@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using wb.Utils;
+using cb.Utils;
 
-namespace wb.Slices
+namespace cb.Slices
 {
     public class Slice
     {

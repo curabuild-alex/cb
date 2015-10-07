@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text;
 
-namespace wb.Utils
+namespace cb.Utils
 {
     public sealed class SemVersion : IComparable
     {

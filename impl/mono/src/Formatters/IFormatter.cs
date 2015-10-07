@@ -1,7 +1,7 @@
 ﻿using System.Text;
-using wb.Slices;
+using cb.Slices;
 
-namespace wb.Formatters
+namespace cb.Formatters
 {
     public interface IFormatter
     {

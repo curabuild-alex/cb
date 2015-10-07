@@ -51,8 +51,6 @@
       <DependentUpon>HelpMsg.tt</DependentUpon>
     </Compile>
     <Compile Include="Formatters\Docker\FormatterDocker.cs" />
-    <Compile Include="Formatters\Docker\FromWriter.cs" />
-    <Compile Include="Formatters\Docker\RunWriter.cs" />
     <Compile Include="Formatters\FormatterFactory.cs" />
     <Compile Include="Formatters\IFormatter.cs" />
     <Compile Include="Formatters\Shell\FormatterShell.cs" />

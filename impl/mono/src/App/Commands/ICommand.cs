@@ -1,4 +1,4 @@
-﻿namespace wb.App.Commands
+﻿namespace cb.App.Commands
 {
     public interface ICommand
     {

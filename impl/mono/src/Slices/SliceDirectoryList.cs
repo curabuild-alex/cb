@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using wb.Utils;
+using cb.Utils;
 
-namespace wb.Slices
+namespace cb.Slices
 {
     public class SliceDirectoryList : List<SliceDirectory>
     {

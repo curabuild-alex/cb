@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace wb.Layers
+namespace cb.Layers
 {
     public class LayerComparer : IComparer<Layer>
     {

@@ -1,13 +1,12 @@
-﻿using System.CodeDom;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
 using System.Text;
-using wb.Formatters;
-using wb.Formatters.Docker;
-using wb.Layers;
-using wb.Slices;
+using cb.Formatters;
+using cb.Formatters.Docker;
+using cb.Layers;
+using cb.Slices;
 
-namespace wb.App.Commands
+namespace cb.App.Commands
 {
     public class Make : ICommand
     {

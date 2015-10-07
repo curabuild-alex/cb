@@ -1,4 +1,4 @@
-﻿namespace wb.App
+﻿namespace cb.App
 {
     public static class Const
     {

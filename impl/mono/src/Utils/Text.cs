@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace wb.Utils
+namespace cb.Utils
 {
     public static class Text
     {

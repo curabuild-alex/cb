@@ -4,9 +4,9 @@ using System.IO;
 using System.IO.Compression;
 using System.Linq;
 using System.Net;
-using wb.Utils;
+using cb.Utils;
 
-namespace wb.App.Commands
+namespace cb.App.Commands
 {
     public class Fetch : ICommand
     {

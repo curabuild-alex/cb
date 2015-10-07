@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Diagnostics;
-using wb.App;
+using cb.App;
 
-namespace wb
+namespace cb
 {
     class Program
     {

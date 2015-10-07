@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using wb.Slices;
-using wb.Utils;
+using cb.Slices;
+using cb.Utils;
 
-namespace wb.Layers
+namespace cb.Layers
 {
     public class Layer
     {

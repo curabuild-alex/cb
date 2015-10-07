@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using wb.Layers;
-using wb.Slices;
+using cb.Layers;
+using cb.Slices;
 
-namespace wb.App.Commands
+namespace cb.App.Commands
 {
     public class Find : ICommand
     {
