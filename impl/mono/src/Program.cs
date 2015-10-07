@@ -1,15 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Diagnostics;
+using wb.App;
 
-namespace cb
+namespace wb
 {
     class Program
     {
         static void Main(string[] args)
         {
-        }
+            try
+            {
+                new Args(args).Command.Run();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex); //todo:logs
+                Debugger.Break(); 
+            }
+        }        
     }
 }
