@@ -27,8 +27,7 @@ namespace cb.App.Commands
                 if (items.Length >= 3 && items[0].StartsWith("Success"))
                 {
                     var id = items[2];
-//                    var s = new DockerRemoveImage {Id = id}.TransformText();
-//                    File.WriteAllText(path.ReplaceFileName("docker-remove.sh"), s);                    
+                    //todo: use the generated image id
                 }
             }
         }
